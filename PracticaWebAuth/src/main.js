@@ -1,0 +1,1 @@
+import './app/signupForm.js'// Importo mi archivo firebase y siempre hay que indicar la extension.
